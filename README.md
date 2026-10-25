@@ -6,12 +6,8 @@ The project was a part of Aalto University course ELEC-A7151, Object oriented pr
 The project was developed by:
 - Henrik Purokoski
 - Otto Salmela
-- Valtteri Silde (me)
+- Valtteri Silde
 - Jonna Takaneva
-
-My responsibilities in this project:
-- Implementing classes City, Square and Road
-- Simulation of traffic inside and between roads and intersections.
 
 ## Overview
 This program is used for simulating traffic in a city. The main interface of the simulator is the GUI, from which you can access all the features and analysis tools there is. The GUI provides an intuitive way to build, simulate and analyse the city. 
